@@ -5,6 +5,9 @@ Suite Setup                   Setup Browser
 Suite Teardown                End suite
 Test Template                 Entering A Lead With Data
 
+
+#test comments to check sync with git hub
+
 *** Test Cases ***
 Entering A Lead With Data with ${First Name} ${Last Name}    ${Phone}    ${Company}    ${Website}
     [Tags]                    AllData
