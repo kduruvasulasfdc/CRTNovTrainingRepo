@@ -6,7 +6,9 @@ Suite Teardown                End suite
 Test Template                 Entering A Lead With Data
 
 
-#test comments to check sync with git hub
+#test comments to check sync with git hub  
+
+#test comments from git hub to be vissble in CRT 
 
 *** Test Cases ***
 Entering A Lead With Data with ${First Name} ${Last Name}    ${Phone}    ${Company}    ${Website}
